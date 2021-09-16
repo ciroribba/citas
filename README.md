@@ -15,7 +15,8 @@ Se implementa el uso de componentes propios de react Native como:
 - TouchableHighlight 
 - Alert 
 - ScrollView 
- y se hace uso de la dependencia [DateTimePicker](https://github.com/react-native-datetimepicker/datetimepicker#getting-started) que nos permite desplegar ventanas modales para seleccionar fechas y horas para completar datos del formulario.
+
+Y se hace uso de la dependencia [DateTimePicker](https://github.com/react-native-datetimepicker/datetimepicker#getting-started) que nos permite desplegar ventanas modales para seleccionar fechas y horas para completar datos del formulario.
 
 Algunas capturas de pantalla del proyecto:
 
